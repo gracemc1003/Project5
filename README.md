@@ -14,4 +14,4 @@ In this model, we trained an exponential smoothing model with two different $\al
 
 ### ARIMA
 
-In the ARIMA model, we measured its success by measuring the residuals of the model. We found that our residuals were around $0$ which is what we'd hope to see. So, we can use this model to make a forecast for the demand of the product in the future.
+In the ARIMA model, we measured its success by measuring the residuals of the model. We found that our residuals were around 0 which is what we'd hope to see. So, we can use this model to make a forecast for the demand of the product in the future.
